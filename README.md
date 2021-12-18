@@ -1,0 +1,2 @@
+- Hi, I’m @KompCode
+- I'm just someone interested in learning programming 
